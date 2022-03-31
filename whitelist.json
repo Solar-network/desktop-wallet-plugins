@@ -1,0 +1,11 @@
+{
+    "plugins": {
+        "@arkecosystem/desktop-wallet-sound-notifications": "0.1.6",
+        "cn-ark-plugin": "1.1.0",
+
+        "@azure-infinity/cyberpunk-theme": "0.0.5",
+        "@azure-infinity/infinite-universe": "0.0.1",
+        "@cambot1088/cyj-theme_2": "0.0.3",
+        "@ross121/red-snow-theme": "0.0.2"
+    }
+}
