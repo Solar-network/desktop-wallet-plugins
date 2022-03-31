@@ -3,9 +3,6 @@
         "@arkecosystem/desktop-wallet-sound-notifications": {
             "version": "0.1.6"
         },
-        "cn-ark-plugin": {
-            "version": "1.1.0"
-        },
         "@azure-infinity/cyberpunk-theme": {
             "version": "0.0.5"
         },
@@ -14,9 +11,6 @@
         },
         "@cambot1088/cyj-theme_2": {
             "version": "0.0.3"
-        },
-        "@ross121/red-snow-theme": {
-            "version": "0.0.2"
         }
     },
     "blacklist": []
