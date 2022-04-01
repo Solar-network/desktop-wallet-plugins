@@ -1,9 +1,0 @@
-{
-    "plugins": {
-        "@arkecosystem/desktop-wallet-sound-notifications": "0.1.6",
-
-        "@azure-infinity/cyberpunk-theme": "0.0.5",
-        "@azure-infinity/infinite-universe": "0.0.1",
-        "@cambot1088/cyj-theme_2": "0.0.3"
-    }
-}

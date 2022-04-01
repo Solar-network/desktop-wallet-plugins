@@ -1,5 +1,8 @@
 {
     "plugins": {
+        "@alessiodf/universal-delegate-monitor-solar": {
+            "version": "0.9.0"
+        },
         "@arkecosystem/desktop-wallet-sound-notifications": {
             "version": "0.1.6"
         },
