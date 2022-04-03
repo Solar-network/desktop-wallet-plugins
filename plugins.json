@@ -1,7 +1,7 @@
 {
     "plugins": {
         "@alessiodf/universal-delegate-monitor-solar": {
-            "version": "0.9.0"
+            "version": "0.9.1"
         },
         "@arkecosystem/desktop-wallet-sound-notifications": {
             "version": "0.1.6"
@@ -14,6 +14,9 @@
         },
         "@cambot1088/cyj-theme_2": {
             "version": "0.0.3"
+        },
+        "@mtaylan/turkish-language-plugin": {
+            "version": "1.0.3"
         }
     },
     "blacklist": []
